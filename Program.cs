@@ -9,21 +9,21 @@ namespace Assignment1
 
         static void Main(string[] args)
         {
-            //QuickUnion qu = new QuickUnion(10);
+            QuickUnion qu = new QuickUnion(10);
 
             WeightedUnion wu = new WeightedUnion(10);
 
-            //foreach(string _line in _lines)
-            //{
-            //    string[] split = _line.Split(' ');
+            foreach(string _line in _lines)
+            {
+                string[] split = _line.Split(' ');
 
-            //    if(split.Length > 1) {
+                if(split.Length > 1) {
 
-            //        int num1 = Int32.Parse(split[0]);
-            //        int num2 = Int32.Parse(split[1]);
-            //        qu.Union(num1, num2);
-            //        Console.WriteLine(qu.ToString());
-            //    }
+                    int num1 = Int32.Parse(split[0]);
+                    int num2 = Int32.Parse(split[1]);
+                    qu.Union(num1, num2);
+                    Console.WriteLine(qu.ToString());
+                }
 
             foreach (string _line in _lines)
             {
@@ -42,5 +42,3 @@ namespace Assignment1
         }
     }
 }
-
-
