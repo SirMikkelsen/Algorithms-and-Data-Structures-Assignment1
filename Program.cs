@@ -9,24 +9,16 @@ namespace Assignment1
 
         static void Main(string[] args)
         {
-
-
-
-            
-            foreach(string _line in _lines) 
-            {
-                
-            }
-            
             QuickUnion qu = new QuickUnion(10);
-            qu.Union(7, 8);
-            Console.WriteLine(qu.ToString());
-            
-            qu.Union(5, 6);
-            Console.WriteLine(qu.ToString());
-          
 
-
+            foreach(string _line in _lines)
+            {
+                int[] split = _line.Split(' ');
+                if(split.Length > 1) {
+                    qu.Union(split[0], split[1]);
+                    Console.WriteLine(qu.ToString());
+                }
+            }
             //while (a! == 0)
         }
     }
