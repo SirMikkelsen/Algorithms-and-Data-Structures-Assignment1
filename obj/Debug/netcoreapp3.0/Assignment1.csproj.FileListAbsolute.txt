@@ -9,3 +9,14 @@ C:\Users\Gordon\Source\Repos\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.Ass
 C:\Users\Gordon\Source\Repos\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.AssemblyInfo.cs
 C:\Users\Gordon\Source\Repos\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.dll
 C:\Users\Gordon\Source\Repos\Assignment1\obj\Debug\netcoreapp3.0\Assignment1.pdb
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\bin\Debug\netcoreapp3.0\Assignment1.exe
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\bin\Debug\netcoreapp3.0\Assignment1.deps.json
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\bin\Debug\netcoreapp3.0\Assignment1.runtimeconfig.json
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\bin\Debug\netcoreapp3.0\Assignment1.runtimeconfig.dev.json
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\bin\Debug\netcoreapp3.0\Assignment1.dll
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\bin\Debug\netcoreapp3.0\Assignment1.pdb
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\obj\Debug\netcoreapp3.0\Assignment1.csprojAssemblyReference.cache
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\obj\Debug\netcoreapp3.0\Assignment1.AssemblyInfoInputs.cache
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\obj\Debug\netcoreapp3.0\Assignment1.AssemblyInfo.cs
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\obj\Debug\netcoreapp3.0\Assignment1.dll
+C:\Users\Gordon\Documents\GitHub\Algorithms-and-Data-Structures-Assignment1\obj\Debug\netcoreapp3.0\Assignment1.pdb

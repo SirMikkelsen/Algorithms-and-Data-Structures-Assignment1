@@ -8,7 +8,7 @@ namespace Assignment1
     {
         private int[] _parrent;
         private int _count;
-        private string[] lines = System.IO.File.ReadAllLines(@"C:\Users\Gordon\Source\Repos\Assignment1\tinyUF.txt");
+        
 
         public QuickUnion(int n)
         {
